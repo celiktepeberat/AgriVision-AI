@@ -1,0 +1,13 @@
+# Sanal Ortam
+venv/
+__pycache__/
+
+# Büyük Veri ve Model Dosyaları
+*.tif
+*.tiff
+*.h5
+*.hdf5
+
+# Loglar ve Geçici Dosyalar
+*.log
+.DS_Store
